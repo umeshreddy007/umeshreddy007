@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+i worked as a systems engineer at infosys.I have an experience of 1.5+ years on .NET FRAMEWORK,Angular,Developing services using .NET core web API,and testing using postman.I have developed an online food order application using .Net Framework and Angular.
+
+
+I am an INFOSYS certfied DOT NET core web API developer and ANgular developer .
+
+I am looking forward to learn front end technologies to become an full stack developer.
+
+YOu can reach me on linkedIN at umeshreddy.yellu@gmail.com
+
 <!--
 **umeshreddy007/umeshreddy007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
